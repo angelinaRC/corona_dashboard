@@ -1,0 +1,356 @@
+gemeentecode,dac_id,statcode,dac_code,dac_name
+"3","1",VR01,GRO,Groningen
+"10","1",VR01,GRO,Groningen
+"14","1",VR01,GRO,Groningen
+"1966","1",VR01,GRO,Groningen
+"24","1",VR01,GRO,Groningen
+"1952","1",VR01,GRO,Groningen
+"1895","1",VR01,GRO,Groningen
+"765","1",VR01,GRO,Groningen
+"37","1",VR01,GRO,Groningen
+"47","1",VR01,GRO,Groningen
+"1969","1",VR01,GRO,Groningen
+"1950","1",VR01,GRO,Groningen
+"59","2",VR02,FRI,Fryslân
+"60","2",VR02,FRI,Fryslân
+"1891","2",VR02,FRI,Fryslân
+"1940","2",VR02,FRI,Fryslân
+"72","2",VR02,FRI,Fryslân
+"74","2",VR02,FRI,Fryslân
+"80","2",VR02,FRI,Fryslân
+"1970","2",VR02,FRI,Fryslân
+"85","2",VR02,FRI,Fryslân
+"86","2",VR02,FRI,Fryslân
+"88","2",VR02,FRI,Fryslân
+"90","2",VR02,FRI,Fryslân
+"1900","2",VR02,FRI,Fryslân
+"93","2",VR02,FRI,Fryslân
+"737","2",VR02,FRI,Fryslân
+"96","2",VR02,FRI,Fryslân
+"1949","2",VR02,FRI,Fryslân
+"98","2",VR02,FRI,Fryslân
+"1680","3",VR03,DRE,Drenthe
+"106","3",VR03,DRE,Drenthe
+"1681","3",VR03,DRE,Drenthe
+"109","3",VR03,DRE,Drenthe
+"114","3",VR03,DRE,Drenthe
+"118","3",VR03,DRE,Drenthe
+"119","3",VR03,DRE,Drenthe
+"1731","3",VR03,DRE,Drenthe
+"1699","3",VR03,DRE,Drenthe
+"1730","3",VR03,DRE,Drenthe
+"1701","3",VR03,DRE,Drenthe
+"1690","3",VR03,DRE,Drenthe
+"148","4",VR04,IJSS,IJsselland
+"150","4",VR04,IJSS,IJsselland
+"160","4",VR04,IJSS,IJsselland
+"166","4",VR04,IJSS,IJsselland
+"1773","4",VR04,IJSS,IJsselland
+"175","4",VR04,IJSS,IJsselland
+"177","4",VR04,IJSS,IJsselland
+"180","4",VR04,IJSS,IJsselland
+"1708","4",VR04,IJSS,IJsselland
+"1896","4",VR04,IJSS,IJsselland
+"193","4",VR04,IJSS,IJsselland
+"141","5",VR05,TWE,Twente
+"147","5",VR05,TWE,Twente
+"1774","5",VR05,TWE,Twente
+"153","5",VR05,TWE,Twente
+"158","5",VR05,TWE,Twente
+"163","5",VR05,TWE,Twente
+"164","5",VR05,TWE,Twente
+"1735","5",VR05,TWE,Twente
+"168","5",VR05,TWE,Twente
+"173","5",VR05,TWE,Twente
+"1742","5",VR05,TWE,Twente
+"183","5",VR05,TWE,Twente
+"1700","5",VR05,TWE,Twente
+"189","5",VR05,TWE,Twente
+"197","6",VR06,NOG,Noord- en Oost-Gelderland
+"200","6",VR06,NOG,Noord- en Oost-Gelderland
+"1859","6",VR06,NOG,Noord- en Oost-Gelderland
+"1876","6",VR06,NOG,Noord- en Oost-Gelderland
+"213","6",VR06,NOG,Noord- en Oost-Gelderland
+"222","6",VR06,NOG,Noord- en Oost-Gelderland
+"230","6",VR06,NOG,Noord- en Oost-Gelderland
+"232","6",VR06,NOG,Noord- en Oost-Gelderland
+"233","6",VR06,NOG,Noord- en Oost-Gelderland
+"243","6",VR06,NOG,Noord- en Oost-Gelderland
+"244","6",VR06,NOG,Noord- en Oost-Gelderland
+"246","6",VR06,NOG,Noord- en Oost-Gelderland
+"262","6",VR06,NOG,Noord- en Oost-Gelderland
+"1955","6",VR06,NOG,Noord- en Oost-Gelderland
+"302","6",VR06,NOG,Noord- en Oost-Gelderland
+"269","6",VR06,NOG,Noord- en Oost-Gelderland
+"1586","6",VR06,NOG,Noord- en Oost-Gelderland
+"1509","6",VR06,NOG,Noord- en Oost-Gelderland
+"273","6",VR06,NOG,Noord- en Oost-Gelderland
+"285","6",VR06,NOG,Noord- en Oost-Gelderland
+"294","6",VR06,NOG,Noord- en Oost-Gelderland
+"301","6",VR06,NOG,Noord- en Oost-Gelderland
+"202","7",VR07,GM,Gelderland-Midden
+"203","7",VR07,GM,Gelderland-Midden
+"221","7",VR07,GM,Gelderland-Midden
+"226","7",VR07,GM,Gelderland-Midden
+"228","7",VR07,GM,Gelderland-Midden
+"1705","7",VR07,GM,Gelderland-Midden
+"267","7",VR07,GM,Gelderland-Midden
+"1734","7",VR07,GM,Gelderland-Midden
+"274","7",VR07,GM,Gelderland-Midden
+"275","7",VR07,GM,Gelderland-Midden
+"277","7",VR07,GM,Gelderland-Midden
+"279","7",VR07,GM,Gelderland-Midden
+"289","7",VR07,GM,Gelderland-Midden
+"293","7",VR07,GM,Gelderland-Midden
+"299","7",VR07,GM,Gelderland-Midden
+"1945","8",VR08,GZ,Gelderland-Zuid
+"209","8",VR08,GZ,Gelderland-Zuid
+"214","8",VR08,GZ,Gelderland-Zuid
+"216","8",VR08,GZ,Gelderland-Zuid
+"225","8",VR08,GZ,Gelderland-Zuid
+"252","8",VR08,GZ,Gelderland-Zuid
+"263","8",VR08,GZ,Gelderland-Zuid
+"1740","8",VR08,GZ,Gelderland-Zuid
+"268","8",VR08,GZ,Gelderland-Zuid
+"281","8",VR08,GZ,Gelderland-Zuid
+"1960","8",VR08,GZ,Gelderland-Zuid
+"668","8",VR08,GZ,Gelderland-Zuid
+"296","8",VR08,GZ,Gelderland-Zuid
+"297","8",VR08,GZ,Gelderland-Zuid
+"307",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"308",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"310",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"312",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"313",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"317",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"321",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"353",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"327",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"331",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"335",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"356",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"589",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"339",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"340",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"736",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"342",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"1904",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"344",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"1581",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"345",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"1961",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"352",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"632",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"351",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"355",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"361",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"373",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"383",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"498",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"388",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"398",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"399",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"400",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"1911",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"405",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"1598",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"416",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"420",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"432",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"441",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"532",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"448",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"370",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"385",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"415",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"431",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"439",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"852",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"880",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"479",10/11,VR10,NHN/ZAWA,Noord-Holland-Noord/Zaanstreek-Waterland
+"375","12",VR12,KNM,Kennemerland
+"377","12",VR12,KNM,Kennemerland
+"392","12",VR12,KNM,Kennemerland
+"394","12",VR12,KNM,Kennemerland
+"396","12",VR12,KNM,Kennemerland
+"397","12",VR12,KNM,Kennemerland
+"450","12",VR12,KNM,Kennemerland
+"453","12",VR12,KNM,Kennemerland
+"473","12",VR12,KNM,Kennemerland
+"358","13",VR13,AA,Amsterdam-Amstelland
+"362","13",VR13,AA,Amsterdam-Amstelland
+"363","13",VR13,AA,Amsterdam-Amstelland
+"384","13",VR13,AA,Amsterdam-Amstelland
+"437","13",VR13,AA,Amsterdam-Amstelland
+"451","13",VR13,AA,Amsterdam-Amstelland
+"376",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"1942",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"402",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"406",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"417",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"457",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"1696",9/14,VR14,UTR,Utrecht/Gooi en Vechtstreek
+"503","15",VR15,HAA,Haaglanden
+"518","15",VR15,HAA,Haaglanden
+"1916","15",VR15,HAA,Haaglanden
+"1842","15",VR15,HAA,Haaglanden
+"1926","15",VR15,HAA,Haaglanden
+"603","15",VR15,HAA,Haaglanden
+"629","15",VR15,HAA,Haaglanden
+"1783","15",VR15,HAA,Haaglanden
+"637","15",VR15,HAA,Haaglanden
+"484","16",VR16,HM,Hollands-Midden
+"1901","16",VR16,HM,Hollands-Midden
+"513","16",VR16,HM,Hollands-Midden
+"534","16",VR16,HM,Hollands-Midden
+"1884","16",VR16,HM,Hollands-Midden
+"537","16",VR16,HM,Hollands-Midden
+"1931","16",VR16,HM,Hollands-Midden
+"546","16",VR16,HM,Hollands-Midden
+"547","16",VR16,HM,Hollands-Midden
+"553","16",VR16,HM,Hollands-Midden
+"569","16",VR16,HM,Hollands-Midden
+"575","16",VR16,HM,Hollands-Midden
+"579","16",VR16,HM,Hollands-Midden
+"1525","16",VR16,HM,Hollands-Midden
+"626","16",VR16,HM,Hollands-Midden
+"627","16",VR16,HM,Hollands-Midden
+"638","16",VR16,HM,Hollands-Midden
+"1892","16",VR16,HM,Hollands-Midden
+"613","17",VR17,RR,Rotterdam-Rijnmond
+"489","17",VR17,RR,Rotterdam-Rijnmond
+"501","17",VR17,RR,Rotterdam-Rijnmond
+"502","17",VR17,RR,Rotterdam-Rijnmond
+"1924","17",VR17,RR,Rotterdam-Rijnmond
+"530","17",VR17,RR,Rotterdam-Rijnmond
+"542","17",VR17,RR,Rotterdam-Rijnmond
+"1621","17",VR17,RR,Rotterdam-Rijnmond
+"556","17",VR17,RR,Rotterdam-Rijnmond
+"1930","17",VR17,RR,Rotterdam-Rijnmond
+"597","17",VR17,RR,Rotterdam-Rijnmond
+"599","17",VR17,RR,Rotterdam-Rijnmond
+"606","17",VR17,RR,Rotterdam-Rijnmond
+"622","17",VR17,RR,Rotterdam-Rijnmond
+"614","17",VR17,RR,Rotterdam-Rijnmond
+"482","18",VR18,ZHZ,Zuid-Holland-Zuid
+"505","18",VR18,ZHZ,Zuid-Holland-Zuid
+"512","18",VR18,ZHZ,Zuid-Holland-Zuid
+"523","18",VR18,ZHZ,Zuid-Holland-Zuid
+"531","18",VR18,ZHZ,Zuid-Holland-Zuid
+"1963","18",VR18,ZHZ,Zuid-Holland-Zuid
+"1978","18",VR18,ZHZ,Zuid-Holland-Zuid
+"590","18",VR18,ZHZ,Zuid-Holland-Zuid
+"610","18",VR18,ZHZ,Zuid-Holland-Zuid
+"642","18",VR18,ZHZ,Zuid-Holland-Zuid
+"654","19",VR19,ZEE,Zeeland
+"664","19",VR19,ZEE,Zeeland
+"677","19",VR19,ZEE,Zeeland
+"678","19",VR19,ZEE,Zeeland
+"687","19",VR19,ZEE,Zeeland
+"1695","19",VR19,ZEE,Zeeland
+"703","19",VR19,ZEE,Zeeland
+"1676","19",VR19,ZEE,Zeeland
+"1714","19",VR19,ZEE,Zeeland
+"715","19",VR19,ZEE,Zeeland
+"716","19",VR19,ZEE,Zeeland
+"717","19",VR19,ZEE,Zeeland
+"718","19",VR19,ZEE,Zeeland
+"1723","20",VR20,MWB,Midden- en West-Brabant
+"1959","20",VR20,MWB,Midden- en West-Brabant
+"744","20",VR20,MWB,Midden- en West-Brabant
+"748","20",VR20,MWB,Midden- en West-Brabant
+"758","20",VR20,MWB,Midden- en West-Brabant
+"766","20",VR20,MWB,Midden- en West-Brabant
+"1719","20",VR20,MWB,Midden- en West-Brabant
+"777","20",VR20,MWB,Midden- en West-Brabant
+"779","20",VR20,MWB,Midden- en West-Brabant
+"784","20",VR20,MWB,Midden- en West-Brabant
+"785","20",VR20,MWB,Midden- en West-Brabant
+"1655","20",VR20,MWB,Midden- en West-Brabant
+"798","20",VR20,MWB,Midden- en West-Brabant
+"809","20",VR20,MWB,Midden- en West-Brabant
+"1709","20",VR20,MWB,Midden- en West-Brabant
+"824","20",VR20,MWB,Midden- en West-Brabant
+"826","20",VR20,MWB,Midden- en West-Brabant
+"1674","20",VR20,MWB,Midden- en West-Brabant
+"840","20",VR20,MWB,Midden- en West-Brabant
+"851","20",VR20,MWB,Midden- en West-Brabant
+"855","20",VR20,MWB,Midden- en West-Brabant
+"867","20",VR20,MWB,Midden- en West-Brabant
+"873","20",VR20,MWB,Midden- en West-Brabant
+"879","20",VR20,MWB,Midden- en West-Brabant
+"1721","21",VR21,BN,Brabant-Noord
+"755","21",VR21,BN,Brabant-Noord
+"756","21",VR21,BN,Brabant-Noord
+"757","21",VR21,BN,Brabant-Noord
+"1684","21",VR21,BN,Brabant-Noord
+"786","21",VR21,BN,Brabant-Noord
+"788","21",VR21,BN,Brabant-Noord
+"796","21",VR21,BN,Brabant-Noord
+"797","21",VR21,BN,Brabant-Noord
+"1685","21",VR21,BN,Brabant-Noord
+"1948","21",VR21,BN,Brabant-Noord
+"815","21",VR21,BN,Brabant-Noord
+"828","21",VR21,BN,Brabant-Noord
+"1702","21",VR21,BN,Brabant-Noord
+"845","21",VR21,BN,Brabant-Noord
+"856","21",VR21,BN,Brabant-Noord
+"865","21",VR21,BN,Brabant-Noord
+"743","22",VR22,BZ,Brabant-Zuidoost
+"1724","22",VR22,BZ,Brabant-Zuidoost
+"753","22",VR22,BZ,Brabant-Zuidoost
+"1728","22",VR22,BZ,Brabant-Zuidoost
+"1706","22",VR22,BZ,Brabant-Zuidoost
+"762","22",VR22,BZ,Brabant-Zuidoost
+"770","22",VR22,BZ,Brabant-Zuidoost
+"772","22",VR22,BZ,Brabant-Zuidoost
+"1771","22",VR22,BZ,Brabant-Zuidoost
+"1652","22",VR22,BZ,Brabant-Zuidoost
+"1658","22",VR22,BZ,Brabant-Zuidoost
+"794","22",VR22,BZ,Brabant-Zuidoost
+"1659","22",VR22,BZ,Brabant-Zuidoost
+"820","22",VR22,BZ,Brabant-Zuidoost
+"823","22",VR22,BZ,Brabant-Zuidoost
+"1667","22",VR22,BZ,Brabant-Zuidoost
+"847","22",VR22,BZ,Brabant-Zuidoost
+"848","22",VR22,BZ,Brabant-Zuidoost
+"858","22",VR22,BZ,Brabant-Zuidoost
+"861","22",VR22,BZ,Brabant-Zuidoost
+"866","22",VR22,BZ,Brabant-Zuidoost
+"889","23",VR23,NML,Limburg-Noord
+"893","23",VR23,NML,Limburg-Noord
+"1711","23",VR23,NML,Limburg-Noord
+"907","23",VR23,NML,Limburg-Noord
+"1507","23",VR23,NML,Limburg-Noord
+"1640","23",VR23,NML,Limburg-Noord
+"1641","23",VR23,NML,Limburg-Noord
+"944","23",VR23,NML,Limburg-Noord
+"946","23",VR23,NML,Limburg-Noord
+"1894","23",VR23,NML,Limburg-Noord
+"1669","23",VR23,NML,Limburg-Noord
+"957","23",VR23,NML,Limburg-Noord
+"983","23",VR23,NML,Limburg-Noord
+"984","23",VR23,NML,Limburg-Noord
+"988","23",VR23,NML,Limburg-Noord
+"888","24",VR24,ZL,Zuid-Limburg
+"1954","24",VR24,ZL,Zuid-Limburg
+"899","24",VR24,ZL,Zuid-Limburg
+"1903","24",VR24,ZL,Zuid-Limburg
+"1729","24",VR24,ZL,Zuid-Limburg
+"917","24",VR24,ZL,Zuid-Limburg
+"928","24",VR24,ZL,Zuid-Limburg
+"882","24",VR24,ZL,Zuid-Limburg
+"935","24",VR24,ZL,Zuid-Limburg
+"938","24",VR24,ZL,Zuid-Limburg
+"965","24",VR24,ZL,Zuid-Limburg
+"1883","24",VR24,ZL,Zuid-Limburg
+"971","24",VR24,ZL,Zuid-Limburg
+"981","24",VR24,ZL,Zuid-Limburg
+"994","24",VR24,ZL,Zuid-Limburg
+"986","24",VR24,ZL,Zuid-Limburg
+"34","25",VR25,FLE,Flevoland
+"303","25",VR25,FLE,Flevoland
+"995","25",VR25,FLE,Flevoland
+"171","25",VR25,FLE,Flevoland
+"184","25",VR25,FLE,Flevoland
+"50","25",VR25,FLE,Flevoland
