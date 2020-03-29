@@ -1,24 +1,26 @@
-fid,dac_id,naam,x,y
-"1","21",Brabant-Noord,"5.5533217904","51.6692861954"
-"2","1",Groningen,"6.7418444435","53.2172893178"
-"3","2",Fryslan,"5.8447081917","53.1107267409"
-"4","3",Drenthe,"6.6184372916","52.8624857499"
-"5","4",IJsselland,"6.2376418011","52.5456112299"
-"6","5",Twente,"6.7069895312","52.3145987451"
-"7","6",Noord- en Oost-Gelderland,"6.1835210327","52.1510161588"
-"8","7",Gelderland-Midden,"5.8032811193","52.0389907373"
-"9","8",Gelderland-Zuid,"5.4745481557","51.8557252935"
-"10","9",Utrecht/Gooi en Vechtstreek,"5.1592823007","52.1060704835"
-"12","25",Flevoland,"5.5938087971","52.5270656389"
-"13","10",Noord-Holland-Noord/Zaanstreek-Waterland,"4.8890013435","52.7162682628"
-"15","12",Kennemerland,"4.6536983030","52.3724175305"
-"16","13",Amsterdam-Amstelland,"4.8715865696","52.3345345349"
-"17","15",Haaglanden,"4.3361931598","52.0425855118"
-"18","16",Hollands Midden,"4.6457468931","52.1036145474"
-"19","17",Rotterdam-Rijnmond,"4.2717156634","51.8601442107"
-"20","18",Zuid-Holland-Zuid,"4.6506514075","51.8145527934"
-"21","19",Zeeland,"3.8340317178","51.4536416103"
-"22","20",Midden- en West-Brabant,"4.7447390846","51.5862950458"
-"23","22",Brabant-Zuidoost,"5.5162007903","51.4170881571"
-"24","23",Limburg-Noord,"5.9641239446","51.3466928577"
-"25","24",Zuid-Limburg,"5.8622527006","50.8838008722"
+id,gml_id,statcode,jrstatcode,statnaam,rubriek,dac_code,dac_id,dac_name,x,y
+"11",cbs_veiligheidsregio_2019_gegeneraliseerd.11,VR11,2019VR11,Zaanstreek-Waterland,veiligheidsregio,NHN/ZAWA,10/11,Noord-Holland-Noord/Zaanstreek-Waterland,4.9101410956,52.4969724435
+"3",cbs_veiligheidsregio_2019_gegeneraliseerd.3,VR03,2019VR03,Drenthe,veiligheidsregio,DRE,"3",Drenthe,6.6184321775,52.8624936212
+"4",cbs_veiligheidsregio_2019_gegeneraliseerd.4,VR04,2019VR04,IJsselland,veiligheidsregio,IJSS,"4",IJsselland,6.2372955272,52.5456625426
+"6",cbs_veiligheidsregio_2019_gegeneraliseerd.6,VR06,2019VR06,Noord- en Oost-Gelderland,veiligheidsregio,NOG,"6",Noord- en Oost-Gelderland,6.1836327638,52.1509614823
+"7",cbs_veiligheidsregio_2019_gegeneraliseerd.7,VR07,2019VR07,Gelderland-Midden,veiligheidsregio,GM,"7",Gelderland-Midden,5.8032450847,52.0390087283
+"1",cbs_veiligheidsregio_2019_gegeneraliseerd.1,VR01,2019VR01,Groningen,veiligheidsregio,GRO,"1",Groningen,6.7444747718,53.2168331080
+"2",cbs_veiligheidsregio_2019_gegeneraliseerd.2,VR02,2019VR02,Fryslân,veiligheidsregio,FRI,"2",Fryslân,5.8448162605,53.1087721072
+"9",cbs_veiligheidsregio_2019_gegeneraliseerd.9,VR09,2019VR09,Utrecht,veiligheidsregio,UTR,9/14,Utrecht/Gooi en Vechtstreek,5.1630749232,52.0834969315
+"17",cbs_veiligheidsregio_2019_gegeneraliseerd.23,VR23,2019VR23,Limburg-Noord,veiligheidsregio,NML,"23",Limburg-Noord,5.9641265954,51.3466815566
+"19",cbs_veiligheidsregio_2019_gegeneraliseerd.17,VR17,2019VR17,Rotterdam-Rijnmond,veiligheidsregio,RR,"17",Rotterdam-Rijnmond,4.2669803230,51.8631521949
+"21",cbs_veiligheidsregio_2019_gegeneraliseerd.19,VR19,2019VR19,Zeeland,veiligheidsregio,ZEE,"19",Zeeland,3.8351229654,51.4519850208
+"22",cbs_veiligheidsregio_2019_gegeneraliseerd.20,VR20,2019VR20,Midden- en West-Brabant,veiligheidsregio,MWB,"20",Midden- en West-Brabant,4.7448419677,51.5863069373
+"25",cbs_veiligheidsregio_2019_gegeneraliseerd.25,VR25,2019VR25,Flevoland,veiligheidsregio,FLE,"25",Flevoland,5.5959888392,52.5272128720
+"10",cbs_veiligheidsregio_2019_gegeneraliseerd.10,VR10,2019VR10,Noord-Holland-Noord,veiligheidsregio,NHN/ZAWA,10/11,Noord-Holland-Noord/Zaanstreek-Waterland,4.8833773748,52.7722152981
+"5",cbs_veiligheidsregio_2019_gegeneraliseerd.5,VR05,2019VR05,Twente,veiligheidsregio,TWE,"5",Twente,6.7069849143,52.3146045271
+"8",cbs_veiligheidsregio_2019_gegeneraliseerd.8,VR08,2019VR08,Gelderland-Zuid,veiligheidsregio,GZ,"8",Gelderland-Zuid,5.4745759642,51.8557176469
+"12",cbs_veiligheidsregio_2019_gegeneraliseerd.12,VR12,2019VR12,Kennemerland,veiligheidsregio,KNM,"12",Kennemerland,4.6537625731,52.3723547188
+"13",cbs_veiligheidsregio_2019_gegeneraliseerd.13,VR13,2019VR13,Amsterdam-Amstelland,veiligheidsregio,AA,"13",Amsterdam-Amstelland,4.8715766208,52.3345166336
+"14",cbs_veiligheidsregio_2019_gegeneraliseerd.14,VR14,2019VR14,Gooi en Vechtstreek,veiligheidsregio,UTR,9/14,Utrecht/Gooi en Vechtstreek,5.1340592867,52.2566336778
+"15",cbs_veiligheidsregio_2019_gegeneraliseerd.15,VR15,2019VR15,Haaglanden,veiligheidsregio,HAA,"15",Haaglanden,4.3363710079,52.0425336995
+"16",cbs_veiligheidsregio_2019_gegeneraliseerd.22,VR22,2019VR22,Brabant-Zuidoost,veiligheidsregio,BZ,"22",Brabant-Zuidoost,5.5161969009,51.4170656004
+"18",cbs_veiligheidsregio_2019_gegeneraliseerd.16,VR16,2019VR16,Hollands-Midden,veiligheidsregio,HM,"16",Hollands-Midden,4.6457335979,52.1036508580
+"20",cbs_veiligheidsregio_2019_gegeneraliseerd.18,VR18,2019VR18,Zuid-Holland-Zuid,veiligheidsregio,ZHZ,"18",Zuid-Holland-Zuid,4.6515022268,51.8148118545
+"23",cbs_veiligheidsregio_2019_gegeneraliseerd.21,VR21,2019VR21,Brabant-Noord,veiligheidsregio,BN,"21",Brabant-Noord,5.5533409602,51.6692715727
+"24",cbs_veiligheidsregio_2019_gegeneraliseerd.24,VR24,2019VR24,Limburg-Zuid,veiligheidsregio,ZL,"24",Zuid-Limburg,5.8622609253,50.8838059473
