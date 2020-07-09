@@ -1,50 +1,50 @@
-ADMIN,ADM0_A3,POP_EST,Cluster
-Ethiopia,ETH,"105350020",East Africa
-South Sudan,SSD,"13026129",East Africa
-Kenya,KEN,"47615739",East Africa
-Malawi,MWI,"19196246",Southern Africa
-Tanzania,TZA,"53950935",East Africa
-Republic of the Congo,COG,"4954674",Central Africa
-Democratic Republic of the Congo,COD,"83301151",Central Africa
-Namibia,NAM,"2484780",Southern Africa
-South Africa,ZAF,"54841552",Southern Africa
-Zambia,ZMB,"15972000",Southern Africa
-Sierra Leone,SLE,"6163195",West Coast
-Guinea,GIN,"12413867",Sahel
-Liberia,LBR,"4689021",West Coast
-Central African Republic,CAF,"5625118",Central Africa
-Sudan,SDN,"37345935",East Africa
-Djibouti,DJI,"865267",East Africa
-Eritrea,ERI,"5918919",East Africa
-Ivory Coast,CIV,"24184810",West Coast
-Mali,MLI,"17885245",Sahel
-Senegal,SEN,"14668522",Sahel
-Nigeria,NGA,"190632261",West Coast
-Benin,BEN,"11038805",West Coast
-Angola,AGO,"29310273",Southern Africa
-Botswana,BWA,"2214858",Southern Africa
-Zimbabwe,ZWE,"13805084",Southern Africa
-Chad,TCD,"12075985",Sahel
-Mozambique,MOZ,"26573706",Southern Africa
-eSwatini,SWZ,"1467152",Southern Africa
-Burundi,BDI,"11466756",East Africa
-Rwanda,RWA,"11901484",East Africa
-Uganda,UGA,"39570125",East Africa
-Lesotho,LSO,"1958042",Southern Africa
-Cameroon,CMR,"24994885",Central Africa
-Gabon,GAB,"1772255",Central Africa
-Niger,NER,"19245344",Sahel
-Burkina Faso,BFA,"20107509",Sahel
-Togo,TGO,"7965055",West Coast
-Ghana,GHA,"27499924",West Coast
-Guinea-Bissau,GNB,"1792338",Sahel
-Mauritania,MRT,"3758571",Sahel
-Equatorial Guinea,GNQ,"778358",Central Africa
-Gambia,GMB,"2051363",Sahel
-Madagascar,MDG,"25054161",Indian Ocean Islands
-Comoros,COM,"808080",Indian Ocean Islands
-Sao Tome en Principe,STP,"201025",Central Africa
-Cabo Verde,CPV,"560899",Sahel
-Somalia,SOM,"11031386",East Africa
-Seychelles,SYC,"93920",Indian Ocean Islands
-Mauritius,MUS,"1356388",Indian Ocean Islands
+ADMIN,ADM0_A3,POP_EST,Cluster,RCCE_country_code
+Ethiopia,ETH,105350020,East Africa,18
+South Sudan,SSD,13026129,East Africa,43
+Kenya,KEN,47615739,East Africa,24
+Malawi,MWI,19196246,Southern Africa,28
+Tanzania,TZA,53950935,East Africa,47
+Republic of the Congo,COG,4954674,Central Africa,11
+Democratic Republic of the Congo,COD,83301151,Central Africa,12
+Namibia,NAM,2484780,Southern Africa,33
+South Africa,ZAF,54841552,Southern Africa,42
+Zambia,ZMB,15972000,Southern Africa,48
+Sierra Leone,SLE,6163195,West Coast,40
+Guinea,GIN,12413867,Sahel,22
+Liberia,LBR,4689021,West Coast,26
+Central African Republic,CAF,5625118,Central Africa,8
+Sudan,SDN,37345935,East Africa,44
+Djibouti,DJI,865267,East Africa,14
+Eritrea,ERI,5918919,East Africa,16
+Ivory Coast,CIV,24184810,West Coast,13
+Mali,MLI,17885245,Sahel,29
+Senegal,SEN,14668522,Sahel,38
+Nigeria,NGA,190632261,West Coast,35
+Benin,BEN,11038805,West Coast,2
+Angola,AGO,29310273,Southern Africa,1
+Botswana,BWA,2214858,Southern Africa,3
+Zimbabwe,ZWE,13805084,Southern Africa,49
+Chad,TCD,12075985,Sahel,9
+Mozambique,MOZ,26573706,Southern Africa,32
+eSwatini,SWZ,1467152,Southern Africa,17
+Burundi,BDI,11466756,East Africa,5
+Rwanda,RWA,11901484,East Africa,36
+Uganda,UGA,39570125,East Africa,46
+Lesotho,LSO,1958042,Southern Africa,25
+Cameroon,CMR,24994885,Central Africa,7
+Gabon,GAB,1772255,Central Africa,19
+Niger,NER,19245344,Sahel,34
+Burkina Faso,BFA,20107509,Sahel,4
+Togo,TGO,7965055,West Coast,45
+Ghana,GHA,27499924,West Coast,21
+Guinea-Bissau,GNB,1792338,Sahel,23
+Mauritania,MRT,3758571,Sahel,30
+Equatorial Guinea,GNQ,778358,Central Africa,15
+Gambia,GMB,2051363,Sahel,20
+Madagascar,MDG,25054161,Indian Ocean Islands,27
+Comoros,COM,808080,Indian Ocean Islands,10
+Sao Tome en Principe,STP,201025,Central Africa,37
+Cabo Verde,CPV,560899,Sahel,6
+Somalia,SOM,11031386,East Africa,41
+Seychelles,SYC,93920,Indian Ocean Islands,39
+Mauritius,MUS,1356388,Indian Ocean Islands,31
